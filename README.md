@@ -7,3 +7,4 @@ Just build it with something like <code>gcc main.c -o main.out</code> and it's g
 
 # Usage
 
+![baseswitcher in action](/preview.png)
